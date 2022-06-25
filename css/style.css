@@ -6,18 +6,49 @@
       position:absolute;
 }
 
-.corpo{
-   height: 1%;
-   width: 100%;
-   background-color: aqua;
+.imagem1{
+   width: 800px;
 }
 
- .topo{
-   background-color: yellow;
-   left:0;
-   top:0;
+.texto1{
+   display: inline-block;
+   right: 10;
+   top: 100;
+   position: absolute;
+}
 
- }
+.texto{
+   font-family: 'Courier New', Courier, monospace;
+   color:whitesmoke;
+   font-size: 24px;
+}
+
+.eolica{
+   display: inline-block;
+   width: 800px;
+   position: relative;
+   animation: eolica 1s;
+}
+
+@keyframes eolica{
+   from{top:0; left:+500px}
+   to{top: 0; left:0;}
+}
+
+.corpo{
+   width: 100%;
+   height: 100%;
+   left: 0;
+   top: 0;
+   position: absolute;
+   background-color:#aea722 ;
+}
+
+.topo{
+   height: 2%;
+   width: 100%;
+   background-color: #dfdf5f;
+}
 
  #odslogo{
     color: #ffffff;
@@ -31,5 +62,5 @@
  }
 
  body{
-    background-color: #0000ff;
+    background-color: #aea722;
  }
