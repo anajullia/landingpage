@@ -56,6 +56,85 @@
    background-color: #ae6f22;
 }
 
+.e1{
+   position: relative;
+   top: 24px;
+   left: 24px;
+   width: 300px;
+   height: 300px;
+   background-color: #f4ca22;
+   float: left;
+}
+
+.e1t{
+   position: relative;
+   text-align: center;
+   align-items: center;
+   color: #ffffbb;
+   font-family: 'Lucida Sans';
+   font-size: 72px;
+   top: 35px;
+}
+
+.e1t2{
+   position: relative;
+   top: 300px;
+   left: 24px;
+   width: 300px;
+   height: 300px;
+   background-color: #f4ca22;
+   float: left;
+}
+
+.e2{
+   position: relative;
+   top: 24px;
+   left: 300px;
+   width: 300px;
+   height: 300px;
+   background-color: #f4ca22;
+   float: left;
+}
+
+.e2t{
+   position: relative;
+   text-align: center;
+   align-items: center;
+   color: #ffffbb;
+   font-family: 'Lucida Sans';
+   font-size: 72px;
+   top: 35px;
+}
+
+.e3{
+   position: relative;
+   top: 24px;
+   right: 24px;
+   width: 300px;
+   height: 300px;
+   background-color: #f4ca22;
+   float: right;
+}
+
+.e3t{
+   position: relative;
+   text-align: center;
+   align-items: center;
+   color: #ffffbb;
+   font-family: 'Lucida Sans';
+   font-size: 72px;
+   top: 35px;
+}
+
+.parte6{
+   bottom: 0;
+   left: 0;
+   width: 1518px;
+   height: 1194px;
+   position:absolute;
+   background-color: #2263ae;
+}
+
 .logoods{
    float: right;
    position:relative;
