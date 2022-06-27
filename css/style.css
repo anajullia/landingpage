@@ -12,7 +12,7 @@
    width: 1518px;
    height: 2287px;
    position: absolute;
-   background-color: #2271ae;
+   background-color: #FBC414;
 }
 
 .parte3{
@@ -21,7 +21,8 @@
    width: 1518px;
    height: 1850px;
    position: absolute;
-   background-color: #22ae58;
+   background-color: #f6ffc4;
+
 }
 
 .parte4{
@@ -53,7 +54,7 @@
    width: 1518px;
    height: 1516px;
    position:absolute;
-   background-color: #ae6f22;
+   background-color: #f4ca22;
 }
 
 .e1{
@@ -122,7 +123,7 @@
    width: 1518px;
    height: 1192px;
    position:absolute;
-   background-color: #2263ae;
+   background-color: #f6ffc4;
 }
 
 .textoe1{
@@ -141,7 +142,7 @@
    position: relative;
    text-align: center;
    align-items: center;
-   color: #ffffbb;
+   color: #977c11;
    font-family: 'Lucida Sans';
    font-size: 20px;
    top: 30px;
@@ -163,7 +164,7 @@
    position: relative;
    text-align: center;
    align-items: center;
-   color: #ffffbb;
+   color: #977c11;
    font-family: 'Lucida Sans';
    font-size: 20px;
    top: 20px;
@@ -185,7 +186,7 @@
    position: relative;
    text-align: center;
    align-items: center;
-   color: #ffffbb;
+   color: #977c11;
    font-family: 'Lucida Sans';
    font-size: 20px;
    top: 20px;
@@ -203,7 +204,7 @@
 .parte7t{
    text-align: center;
    font-family:'Segoe UI';
-   color: white;
+   color: #725e0c;
    font-size: 75px;
    bottom: 40px;
 }
@@ -239,7 +240,7 @@
 }
 
 .tgi{
-   font-family: 'Lucida Sans';;
+   font-family: 'Lucida Sans';
    text-align: center;
    color: #977c11;
    font-size: 30px;
@@ -280,7 +281,7 @@
    right: 50px;
    font-size: 24px;
    font-family: Verdana;
-   color: white;
+   color: #977c11;
 }
 
 .logo7{
@@ -318,7 +319,7 @@
    left: 50px;
    font-size: 24px;
    font-family: Verdana;
-   color: white;
+   color: #977c11;
 }
 
 .logo{
