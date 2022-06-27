@@ -197,7 +197,7 @@
    width: 1518px;
    height: 892px;
    position:absolute;
-   background-color: #ae228b;
+   background-color: #baa122;
 }
 
 .parte7t{
@@ -205,6 +205,7 @@
    font-family:'Segoe UI';
    color: white;
    font-size: 75px;
+   bottom: 40px;
 }
 
 .parte8{
@@ -234,14 +235,14 @@
    float: right;
    width: 894px;
    height: 775.5px;
-   background-color: #22ae58;
+   background-color: #f6ffc4;
 }
 
 .tgi{
    font-family: 'Lucida Sans';;
    text-align: center;
-   color: #f4ca22;
-   font-size: 40px;
+   color: #977c11;
+   font-size: 30px;
 }
 
 .logoods{
