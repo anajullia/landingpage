@@ -344,7 +344,7 @@
 .texto1{
    float: left;
    position: absolute;
-   animation: eolica 1.5s;
+   animation: eolica 1s;
    left: 759;
    width: 600px;
    text-align: 'center';
